@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: zomato
-        image: dvsdutta/zomato:latest
+        image: dvsdutta/zomato:arm64
         ports:
         - containerPort: 3000
